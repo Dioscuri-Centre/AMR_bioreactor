@@ -1,0 +1,51 @@
+Diluted 50mikroL of overnight cultures of AD30 and EEL02 into 10mL each of fresh medium, let grow for an hour and then mixed 50:50 before inoculating 1mL into each turbidostat culture.
+Also diluted inoculum 10^4 and plated 100mikroL (x4) on LB agar. 
+
+Ran turbidostat aprroximately until two hours afther thershold OD of 0.1 was reached, then stopped experiment,harvested entire cultures into falcon tubes on ice, diluted for CFU count 10^4, 100 mikroL on LB agar, 2 plates from each culture
+Spun down entire culture (at 4C). Plated on LB agar with ciprofloxacin (100 ng/mL)
+
+20220526
+
+CFU inoculum
+AD30:56,40,55,63
+EEL02:76,75,63,96
+
+CFU at the stop of experiment
+
+0-
+AD30:66,62
+EEL02:60,57
+
+1-
+AD30:41,130
+EEl02:40,93
+
+2-
+AD30:71,56
+EEl02:80,79
+
+3-
+AD30:73,67
+EEL02:70,76
+
+
+20220527
+
+CFU on 100ng/mL cipro
+
+0-
+AD30:0
+EEL02:17+9
+
+1-
+AD30:1+1
+EEL02:6+4
+
+2-
+Ad30:1
+EEL02:6+4
+
+3-
+AD30:0
+EEL02:0
+

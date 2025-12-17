@@ -1,0 +1,23 @@
+20240307
+
+growth rates of 4 different rifR rpoB mutants in the turbidostat. 
+On LB and 2 hours after treshold OD of 0.1 reached 100mikrog/ml RIF
+
+0: G513L AD30
+1: H526N EEL02
+2: S531Y EEL02
+3: P564R AD30
+
+
+
+cfu inoculum (10^4, 100mikroL spotted on lb agar with rif)
+0:167
+1:143
+2:107
+3:184
+
+cfu end (10^4, 100mikroL spotted on lb agar with rif)
+0:83
+1:110
+2:165
+3:178

@@ -1,0 +1,13 @@
+20231117
+
+ove nitgh cultures of EEL02 ad ciproR mutant AD30gyrAD87N diluted 50 mikroL ito 10ml each and grown for 1 hour shaking at 37C
+mixed 1:100 of D87N ito EEL02, incoulated into culture 1 and 3 and inoculated cultures 0&2 with only D87N mutant
+also diluted oth mixture and pure mutant culture 10^4 in PBS and spotted 100mikroL on lb agar (x4)
+turbidotsat run where 100ng/ml ciprofloxacin was added 2 hours after threshold OD of 0.1 is reached 
+
+20231118
+
+cfu of inoculum:
+
+1+3 (mixture): 226,203,224,189 of EEL02, 1,1,4,3 of AD30gyrAD87N
+0+2 (only AD30gyrAD87N): 190,183,193,176

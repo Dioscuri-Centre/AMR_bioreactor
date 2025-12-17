@@ -1,0 +1,37 @@
+20231123
+
+over night cultures of four different ciproR mutants diluted 50mikroL into 10mlLb and grown shaking for an hour before 1ml being inoculted into the turbidostat cultures as follows:
+
+0: EEL02 gyrBS464F
+1: AD30 gyrBG429V
+2: AD30 gyrB S463P
+3: AD30 gyrA S111Y
+
+inoculum also diluted 10^4 in PBS and spotted 100mikroL on LB agar/ LB agar with 100ng/ml cipro.
+
+turbidostat run, 100ng/ml cipro added 2 hours after treshold OD (0.1) reached 
+
+note: culture 1 OD data very noisy, even on LB.
+
+some disturbances in OD measurements, all cultures at the same time
+
+all cultures seem to slow down in response to cipro, left experiment over night
+
+20231124
+
+cfu inoculums:
+0: 112 on lb, 119 on cipro
+1: 48 on lb, 39 on cipro - very small colonies on cipro
+2: 83 on lbm 83 on cipro
+3: 94 on lb, 93 on cipro
+
+stopped experiment, froze some of each culture in 15% glycerol, duilted 10^4 in PBs and spotted 100mikroL on lb agar/ lb agar with 10ng/ml cipro
+rest of entire culture spun down, supernatant discarded and pellets frozen.
+
+20231125
+
+cfu end cultures
+0: 110 on lb, 91 on cipro
+1: 115 on l, 123 on cipro
+2: 128 on lb, 161 on cipro
+3: 120 on lb, 112 on cipro

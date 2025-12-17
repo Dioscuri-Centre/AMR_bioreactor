@@ -1,0 +1,61 @@
+20220609
+
+Over night cultures of AD30 and EEL02 diluted 50mikroL into 10mL fresh LB each and grown shaking at 37C for an hour before mixed 50:50 and inoculated 1mL into each turbidostat culture
+Inoculum also diluted 10^4 and plated 100 mikroL on LB agar (x4)
+
+Turbdidostat run: 100mikrog/mL rifampicin added 2 hours after threshold OD of 0.1 reached. 
+
+
+20220610
+
+CFU inoculum:
+AD30:41,49,39,26
+EEL02:48,40,45,27
+
+Resistant regrowth in cultures 0,1,3
+Experiment stopped.
+For cultures 0,1,3, diluted 10^4 and plated on 2xLB agar and 2xLB agar RIF, 100mikroL per plate, and frozen at -80 in 15% glycerol
+Then entire culture spun down and pellet left for DNA extraction.
+
+culture 2 left static at 37C
+
+
+20220611
+Growth in culture 2 -> streaked out and sample spun for DNA extraction. 
+
+
+CFU from plating at end of experiment:
+
+0-LB
+
+AD30:0
+EEL02:159,106
+
+0-RIF
+
+AD30:0
+EEL02:133,154
+
+1-LB
+
+AD30:3,2
+EEL02:158,150
+
+1-RIF
+
+AD30:0,1
+EEL02:142,168
+
+3-LB
+
+AD30:103,85
+EEL02:2,0
+
+3-RIF
+
+AD30:117,67
+EEL02:3,0
+
+20220612:
+On plate from culture 2: Only AD30.
+

@@ -1,0 +1,48 @@
+20230606
+over night culture of AD30mutS and EEL03mutS diluted 50mikroL into 10ml fresh lb each and grown shaking at 37 for 1 hour 
+before mixed 50:50 and 1 ml of the mixture was inoculated into each turbidostat cultures. 
+inoculum was also diluted 10^4 in PBS and spotted 100mikroL on 4 lb agar plates. 
+
+approximately 2 hours after the threshold OD of 0.1 was reached the cultures were harvested. each culture diluted 10^4 in pBS and spotted on 2x lb agar (100mikroL/plate)
+entire culture spun down, most of supernatant discarded and then plated all cells on LB agar with 100mirkog/ml streptomycin. 
+
+
+20230607
+
+cfu count inoculum: 
+Ad30mutS: 103,89,87,80
+EEL03mutS: 129,114,112,120
+
+cfu end experiment
+
+culture 0
+AD30mutS:75,76
+EEL03mutS:56,82
+
+culture 1
+AD30mutS:69,80
+EEL03mutS:86,85
+
+culture 2
+AD30mutS:89,90
+EEL03mutS:86,78
+
+culture 3
+AD30mutS:90,99
+EEL03mutS:85,81
+
+cfu on strep
+culture 0: 10
+culture 1: 12
+culture 2: 14
+culture 3: 6
+(use these numbers because they are large colonies)
+
+20230608
+
+cfu on strep after 48 hours (new colonies smaller than from previous day, most very small)
+
+culutre 0: 10 +34 new (most very tiny)
+culture 1: 12 +2 new (smaller but not the tiny colony type)
+culture 2: 14 +26 new (most tiny, some slightly larger)
+culture 3: 6  +24 new (mostly tiny)

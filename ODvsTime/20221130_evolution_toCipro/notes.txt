@@ -1,0 +1,19 @@
+20221129
+
+AD30 and EEL02 overnight cultures diluted 50mikrol into 10 ml in fresh lb and grown shaking at 37 for an hour, then mixed 50:50 and incoulated 1ml into each turbidostat cultuture.
+100ng/ml ciprofloxacin added 2 hours after threshold od of 0.1 reached.
+
+20221130
+evolved cipro resistant in cultures 2 & 3, stopped experiment, froze pars of cultures at -80, and plated some on LB/LB cipro, 10^4dilution
+
+20221201
+
+cfu/ml from plating:
+
+culture 2 (all AD30):
+on LB: 2.05*10^6 on 100ng cipro: 0.75*10^6
+
+culture 3: (all EEL02)
+on LB: 6.2*10^6 on 100ng cipro: 3.3*10^6
+
+

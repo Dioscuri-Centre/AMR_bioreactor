@@ -1,0 +1,51 @@
+20230425
+
+over night cultures of AD30 and EEL02 diluted 50mikroL into 10ml of fresh lb each and grown shaking for an hour at 37, then mixed 50:50 and 1ml of the mixture incoulated in each turbidostat culture
+this inoculum was also diluted 10^4 in PBS and spotted 100mikroL each onto lb agar plates (x4)
+
+turbidostat run with no antibiotics, stopped approx 2 hours after threshold OD was reached and entire cultures spun down and plates onto lb agar with 100mikrog/ml streptomycin
+end cultures also diluted 10^4 and spotted onto LB agar (100mikroL per plate and 2 plates per culture) for cfu count.
+
+
+20230426
+
+cfu inoculum
+
+AD30:118,96,104,83 
+EEL02:145,161,142,152
+-> 2.5025*10^7cfu/ml
+
+cfu end:
+
+culture 0
+AD30:116,102
+EEL02:107,104
+->2.145*10^7cfu/ml
+
+culture 1
+AD30:115,122
+EEL02:105,128
+->2.35*10^7 cfu/ml
+
+culture 2
+AD30:69,85
+EEl02:61,82
+->1.485*10^7 cfu/ml
+
+culture 3
+AD30:93,75
+EEL02:75,74
+->1.585*10^7 cfu/ml 
+
+no visible colonies on streptoycin plates
+
+20230427
+
+on strep
+culture 0: 284 (all small)
+
+culture1: 466 (all small)
+
+culture2: 256 (all small)
+
+culture3; 153 (small), 1 (larger)

@@ -1,0 +1,56 @@
+20230120
+
+over night cultures of AD30 and EEL02 was diluted 50mikroL into 10 ml of fresh Lb each and grown shaking at 37C for on hours before mixing 50:50 and inoculating 1ml of this mixture into each turbidostat culture.
+the inoculum was also diluted 10^4 in PBS and plated 100 mikrLplate on LB agar plates (4 plates)
+
+turbidostat run with filution time 1800s, threshold OD=0.1, after approx 2 hours stopped and cultures harvested on ice, spun down at 4C and plated on 100 mikrog/ml streptomycin
+also diluted 10^4 in PBS and plated 100mikrol/plate on LB agar (4 plated per culture).
+
+
+20230121
+
+cfu inoculum
+AD30: 124,132,106,117
+EEL02: 98,88,89,77
+
+-> 2.0775*10^7 cfu/ml in inoculum
+
+
+cfu in cultures at end of exp:
+
+0:
+AD30: 63,58,48,36
+EEL02:62,74,70,46
+->1.14*10^7cfu/ml
+
+1:
+AD30: 30,34,40,23
+EEL02: 41,36,22,33
+->0.6225*10^7cfu/ml
+
+2:
+AD30: 55,66,56,54
+EEL02: 70,62,56,54
+->1.2175*10^7cfu/ml
+
+3:
+AD30:58,59,35,42
+EEL02: 58,72,34,52
+1.025*10^7cfu/ml
+
+202301222
+cfu on strep plates:
+
+culture 0: 20 small cfu, 1 large (i.e normal)
+culture 1: 22 small cfu
+culture 2: 11small cfu
+culture 3: 7 small cfu
+
+20230125
+restreaked all colonies from the streptomycin plates onto fresh lb agar with streptomycin. 
+
+20230127
+selected 2 of the small colonies one in AD30 backround (0_16) and one in EEL02 background (0_17) for further testing. 
+restreaked them on LB without antibiotics, and inoculated into fresh LB cultures. 
+
+

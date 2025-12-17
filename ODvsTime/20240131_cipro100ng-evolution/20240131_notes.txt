@@ -1,0 +1,41 @@
+turbidostat run, 20240130, 
+evolution to 100ng/ml cipro, added 2 hours after threshold od of 0.1 reached. 
+
+sampling for cfu during run (pre and post cipro addition)
+
+
+inoculum, 10^4, 100mikroL/plate:
+ad30: 75, 83
+eelo2: 130, 123
+
+
+before (10^4, 100mikroL) ust before AB injection
+0:99 AD30, 110 EEL02  ->2.09*10^7cfu/ml
+1:107 AD30, 119 EEL02 ->2.26*10^7cfu/ml
+2:69 AD30. 86 EEL02  ->1.55*10^7cfu/ml
+3:N/A dilution messed up
+
+t1 (10^4, 30 mikroL) just before 3rd AB injection
+0: 16 AD30, 17 EEL02 ->1.1*10^7cfu/ml
+1: 12 AD30, 21 EEL02 ->1.1*10^7cfu/ml
+2: 11 AD30, 14 EEL02 ->0.83*10^7cfu/ml
+3: 16 AD30, 30 EEL02 ->1.53*10^7cfu/ml
+
+t2 (10^3 30 mikroL) just before 8th(?) injection of AB
+0: 16 AD30, 16 EEL02 15:39 0.099 ->1.067*10^6cfu/ml
+1: 12 AD30, 26 EEL02 15:16 ->1.267*10^6cfu/ml
+2: 7 AD30, 8 EEL02 15:29 0.0879 ->0.5*10^6cfu/ml
+3: 3 AD30, 9 EEL02 15:17 ->0.4*10^6cfu/ml
+
+t3 (10^2, 30 mikroL)
+0: 11 AD30, 4 EEL02 16:40, 0.0153 ->0.5*10^5cfu/ml
+1: 9 AD30, 19 EEL02 16:39 0.0119 ->0.933*10^5cfu/ml
+2: 14 AD30, 17 EEL02 16:39 0.0129 ->1.033*10^5cfu/ml
+3: 10 AD30, 26 EEL02 16:38 0.0118 ->1.2*10^5cfu/ml
+
+
+evolution of cipro resistance only in culture 3, all eel02
+cfu count (100mikroL of 10^4 dilution on each plate)
+lb: 55,56 cipro: 55,57 ->1.115*10^7cfu/ml
+
+

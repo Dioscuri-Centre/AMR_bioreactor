@@ -1,0 +1,21 @@
+ciproR mutats grow on lb and then 100ng/ml ciprofloxacin in the turidostat
+
+culutre 0: gyrA G81D
+culture 1: gyrA D87Y
+culture 2: gyrA D87N
+culture 3: gyrA D87G
+
+cfu inoculums (10^4 dilution, 100mikroL spotted)
+0:71
+1:189
+2:143
+3:116
+
+cfu end cultures: 
+0:72
+1: 138
+2:79
+3: 54
+
+
+cultures spun down ad pellets saved for later dna extraction.

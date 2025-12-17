@@ -1,0 +1,67 @@
+20211207
+
+Over night cultures in LB of AD30 and EEL02 diluted 50mikroL into 10 mL of fresh LB and grown shaking at 37C for an hour.
+Then mixed 50:50 and 1mL of this mixture was inoculated into each turbidostat culture. The inoculum was also diluted 10^4 and 100 mikroL/plate was plated on LB AGar plate.
+
+treshold OD=0.1, dilution factor 0.75, cultures grown approx. 2 hours after threshold OD was reached and then entire cultures harvested (on ice) and spund down before plated on RIF.
+(some culture diluted 10^4 prior to spinning and platde 100mikroL per plate for CFU count). 
+
+20211208
+
+CFU inoculum, 10^4, 100mikroL/plate:
+AD30:22,63,82,60,90
+EEL02:30,139,111,72,123
+
+
+CFU when experiment stopped, 10^4, 100mikroL/plate:
+
+culture 0:
+AD30:45,60,41
+EEL02:53,73,34
+
+culture 1:
+AD30:79,67,51
+EEL02:61,59,41
+
+
+culture 2:
+AD30:51,20,42
+EEL02:53,20,35
+
+
+culture 3:
+AD30:44,46,27
+EEL02:37,50,30
+
+
+20211209
+Colonies on RIF (Strain background uncertain at this point since some colonies small, and it' son RIF.
+
+culture 0: 13
+culture1: 27
+culture 2: 19
+culture 3: 11
+
+All colonies restreaked on RIF. 
+
+
+20211213
+
+All colonies picked in order of culture:number and inoculated into LB in 96 well plate and grown O/N at 37
+
+20211214
+
+diluted 2mikroL per well into fresh 96 well plate with LB ->plate reader exp at 37C
+
+20211215
+
+diluted 2mikroL per well into fresh 96 well plate with LB and 100mikrog/mL RIF ->plate reader exp at 37C
+
+
+
+In the end froze 96 well plate with clones at -80/10% glycerol/
+
+
+
+
+

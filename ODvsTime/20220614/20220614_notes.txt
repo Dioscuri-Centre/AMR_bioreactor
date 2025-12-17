@@ -1,0 +1,39 @@
+20220614
+
+Over night cultures of AD30 and EEL02 diluted 50mikroL into 10mL fresh LB each and grown shaking at 37C for an hour before mixed 50:50 and inoculated 1mL into each turbidostat culture
+Inoculum also diluted 10^4 and plated 100 mikroL on LB agar (x4)
+
+Experiment stopped about 2 hours after threshold OD of 0.1 was reached. Diluted 10^4 for CFU and plated 100mikroL on LB agar(x2)
+Entire cultures spun down (at4C) and plated on LB agar with 100mikrog/mL Rifampicin
+
+20220615
+
+CFU incoculum
+
+AD30:63,72,68,64
+EEL02:118,121,127,85
+
+CFU at stop of experiment
+
+0-
+AD30:107,69
+EEL02:101,65
+
+1-
+AD30:52,66
+EEL02:69,81
+
+2-
+AD30:63,50
+EEl02:65,74
+
+3-
+AD30:53,57
+EEL02:49,78
+
+20220616
+
+Colonies on RIF:
+0: 31, 1: 15, 2: 30, 3:7 
+
+All restreaked on rif plates for further testing and MinIon sequencing. 

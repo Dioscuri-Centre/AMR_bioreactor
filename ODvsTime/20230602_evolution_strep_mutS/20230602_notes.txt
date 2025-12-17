@@ -1,0 +1,63 @@
+20230601
+
+Over noght cultures of AD30mutS and EEL03mutS diluted 50mikroL into 10ml of frsh LB and grown shaking at 37C for one hour, before being mixed 50:50
+1ml of this mixture inocultaed into each turbidostat culture. 
+also diluted inoculum 10^4 in PBS and spotted 100mikroL on LB agar (x4)
+
+turbidostat run with 100mikrog/ml streptomycin added 2 hours after the threshold OD of 0.1 was reached. 
+
+
+20230602
+
+cfu inocculum
+AD30mutS:133,132,137,146
+EEL03mutS:104,105,114,100
+
+
+All cultures growing on streptomycin. stopped experiment, froze samples of all cultures at -80C in 15% glycerol.
+diluted each culture 10^4 and spotted 100mikroL on LB agar(x2) and LB agar with 100mikrog/ml streptomycin(x2)
+
+
+20230603
+
+cfu end experiment
+
+culture0
+
+on strep
+AD30mutS:24,22		46
+EEL03mutS:154,163	317
+
+on LB
+AD30mutS:26,25		51
+EEL03mutS:174,151	325
+
+culture1
+
+on strep
+AD30mutS:123,141	264
+EEL03mutS:48,34		82
+
+on LB
+AD30mutS:134,159	293
+EEL03mutS:80,79		159
+
+culture2
+
+on strep
+AD30mutS:92,90		182
+EEL03mutS:55,67		122
+
+on LB
+AD30mutS:129,120	249
+EEL03mutS:65,51		116
+
+culture3
+
+on strep
+AD30mutS:0,0		0
+EEL03mutS:167,246	413
+
+on LB
+AD30mutS:0,0		0
+EEL03mutS:140,177	317

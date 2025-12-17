@@ -1,0 +1,45 @@
+20220224
+
+Over night cultures of AD30 and EEL03 diluted 50 mikroL into 10 mL of fresh LB and grown shaking at 37 for about an hour,
+then mixed 50:50 before inoculate 1mL into each tubidostat culture.
+Inoculum diluted 10^4 and plated 100 mikroL per plate onto LB agar x5 -> 37C ON
+
+Turbidostat run until approx 2 hours after threshold OD was reached (0.1), and then entire cultures were spun down and plated on LB agar with 100mikrog/mL RIf
+Cultures were also diluted 10^4 and plated 100mikroL for CFU count on LB agar
+
+20220225
+
+CFU inoculum 
+AD30: 101,88,86,86,80
+EEL02: 155,113,163,127,117
+
+
+CFU at stop:
+
+culture0
+AD30:109,102,140,56
+EEL02:101,81,99,67
+
+culture1
+AD30:111,107,90,63
+EEL02:100,67,74,68
+
+culture2
+AD30:66,81,50,88
+EEL02:63,72,46,77
+
+culture3
+AD30:69,77,98,81
+EEL02:54,62,64,84
+
+20220226
+
+Restreaked all CFU on RF on Rif again:
+
+culture 0: 11 EEL02, 9 AD30
+culture 1: 5 EEL02, 9 AD30
+culture 2: 0 EEL02, 7 AD30
+culture 3: 17 EEL02, 21 AD30
+
+
+

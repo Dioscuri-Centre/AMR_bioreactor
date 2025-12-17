@@ -1,0 +1,29 @@
+20240306
+
+short spun down on lb agar plates experiment 
+
+50mikrol each of  over night cultures AD30 an EEL02 diluted 50mikroL into 10ml fresh LB and grown shaking at 37C for an hour before being mixed 50:50 and incoulated 1 ml each into the turbidostat culutres.
+diluted inoculum 10^4 in PBS and spotted 100mikroL on LB agar (x2)
+ran turbidostat and stopped aprox 2 hours after the threhsold OD of 0.1 was reached, harvested whole cultures o ice, spund down at 4C and plated on lb agar with 100mikrog/ml rif
+also diluted end culture 10^4 in PBS and spotted 100mikroL on LB agar for total cfu count
+
+20240607
+
+cfu inoculum;
+AD30: 131,127
+EEL02: 131,118
+
+cfu end
+0:118 AD30, 124 EEL02
+1:132 AD30, 112 EEL02
+2:109 AD30, 119 EEL02
+3:105 AD30, 101 EEL02
+
+20240608
+
+cfu on RIF
+0: 45
+1: 56
+2: 11
+3: 27
+

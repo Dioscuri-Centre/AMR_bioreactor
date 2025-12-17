@@ -1,0 +1,34 @@
+20230125
+
+overnight cultures of AD30 and EEL02 diluted 50mikroL into 10 ml LB each.
+grown for 1 hour shaking at 37C before mixed 50:50 and inoculated 1ml mixture into each turbidostat culture. 
+diluted inoculum 10^4 in PBS and plated 100mikroL each ont LB agar (x4)
+
+turbidostat run: evolution to 100mikrog/ml streptomycin. threshold OD=0.1, antibiotics added 2 hours after threshold OD reached. 
+
+20230126
+reistant regrowth in culture 0 and culture 3. experiment stopped, cultures 0 and 3 diluted 10^4 in PBS and plated 100mikroL/plate on lb agar (x4) and lb agar with 100mikrog/ml strep (x4)
+some of cultures 0 and 3 were also frozen at -80 in 15% glycerol. 
+
+also left all cultures at 37C static o/n
+
+cfu inoculum
+AD30: 95,103,92,125
+EEL02: 118,118,113,133
+->2.2425*10^7cfu/ml
+
+
+20230127
+
+(only growth in cultures 0 & 3 as expected)
+
+cfu evolved cultures. 
+
+culture 0 - all AD30 background
+on LB: 73,78,55,99 ->0.7625*10^7cfu/ml
+on Strep: 67,82,71,70 ->0.7250*10^7cfu/ml
+
+culture 3 - all EEL02 background
+on LB:89,101,100,90 ->0.95*10^7cfu/ml
+on strep: 83,68,102,81 ->0.835*10^7cfu/ml
+

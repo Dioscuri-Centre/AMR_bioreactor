@@ -1,0 +1,70 @@
+20220920
+
+over night cultures of AD30 and EEL02 diluted 50mikrol into 10ml of fresh LB each, and grown for an hour before mixing 50:50 and inoculating each turbidostat culture with 1ml each;
+the inoculum mixture was also diluted 10^4 in PBS and plated on LB agar for CFU count. 100 mikroL/plate, 4 plates. 
+
+issue with OD measurement, i.e syringes got stuck, had to stop and replace syringes and restart the experiment.
+
+treshold OD=0.1, dilution time 1800 seconds, 100 mikrog/ml rif added 2hours after treshold OD reached. 
+
+20220921
+
+regrowth in all 4 cultures on rifmapicin
+
+stopped experiment, froze all cultures in 15% glycerol at -80C, diluted all cultures 10^4, plated on LB Agar as well as LB agar with 100mikrog/ml rifampcin.
+(100 mikroL/plate. 4 LB plates and 4 rif plated per culture)
+
+CFU inoculumn
+AD30:88,104,93,112
+EEL02:122,138,129,137
+
+20220922
+
+CFU at end of expriment
+
+culture 0
+
+RIF
+AD30:41,25,32,12
+EEL02:61,37,81,37
+->0.815*10^7 cells/ml
+LB
+AD30:41,28,20,29
+EEL02:52,49,72,62
+->0.89*10^7 cells/ml
+
+culture 1
+
+RIF
+AD30:44,124,87,84
+EEL02:69,133,114,110
+->1.9*10^7 cells/ml
+LB
+AD30:123,151,145,134
+EEL02:104,114,115,136
+->2.3*10^7 cells/ml
+
+culture 2
+
+RIF
+AD30:26,37,20,33
+EEL02:57,91,66,73
+->1*10^7 cells/ml
+
+LB
+AD30:33,38,19,28
+EEL02:97,83,70,100
+->1.17*10^7 cells/ml
+
+culture 3
+
+RIF one plate smeared by liquid
+AD30:35,53,41
+EEL02:0,0,0 
+0.43*10^7 cells/ml
+
+LB
+AD30:81,71,78,99
+EEL02:2,1,0,1
+->0.83*10^7 cells/ml
+

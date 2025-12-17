@@ -1,0 +1,38 @@
+20241127
+
+overnight cultures of AD30 and EEL02 D516Y diluted 50mikroL into 10 ml and grown for 70 minutes before diluted into 25ml to OD point 0.01 and then grown for approx another hour until OD about 0.08
+
+mixed 1:1000  (EEL02 D516Y: AD30) before inoculated 1 ml into each turbidostat culture.
+
+spotted 100 mikroL/ lb agar (x8) of 10^4 diluted inoculum, and 100mikroL/ lb agar with RIf of 10^1 diluted inoculum for initial cell count/ratio
+
+note: issue with OD measurements in culture 3.
+
+sampled culutres in  steady state once befor RIF addition and spotted 100 mikroL (10^4)x2 on LB agar and 100 mikroL (10^1)x2 on lb agar with rif for each cultures
+
+sampling times;
+
+culture 0: T= 5423 (14:37)
+culture 1: T= 5058 (14:30)
+culture 2: T= 5426 (14:58)
+culture 3: T= 5751 (15:08)
+
+
+20241128
+
+note: lb had run out in the morning
+
+CFU inoculum:
+
+LB: 116,132,114,97,145,135,126,104 -> 1.2*10^7 cfu/ml
+RIF:121,117,121,141,100,107,134,112 0-> 11900 cfu/ml
+about 1:1000
+
+cfu in steady state on lb:
+
+culture 0: LB:202,202 RIF:205,213  
+culture 1: LB:201,209 RIF:207,205
+culture 2: LB:210,224 RIF:238,254
+culture 3: LB:257,278 RIF:260,282
+
+

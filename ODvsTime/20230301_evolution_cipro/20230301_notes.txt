@@ -1,0 +1,60 @@
+20230228
+
+50 mikroL each of over night culutures of AD30 and EEL02 diluted into 10 ml of fresh LB and grown shaking at 37C foe an hour. 
+cultures then mixed 50:50 and 1 ml of this mixure was inoculated in each turbidostat culture. 
+inoculum also diluted 10^4 in PBS and plated on LB agar (100 mikroL), x4 plates.
+
+turbidostat run with threshold OD 0.1 and 100ng/ml ciprofloxacin added 2 hours after threshold OD was reached. 
+
+all culutures also samples just before cipro addition, samples diluted 10^4 in PBS and plated 1100mikroL on LB agar (x2 plates/sample)
+
+20230301
+
+cfu inoculum:
+
+AD30: 125,163,130,157
+EEL02: 96,127,105,75
+->2.17*10^7 cfu/ml
+
+cfu before cipro addition:
+
+culture 0:
+AD30:62,60
+EEL02:63,84
+->1.345*10^7 cfu/ml
+
+culture 1:
+AD30:64,52
+EEL02:71,62
+->1.245*10^7 cfu/ml
+
+culture 2:
+AD30:53,54
+EEL02:61,77
+1.225*10^7 cfu/ml
+
+culture 3:
+AD30:52,52
+EEL02:60,71
+->1.175*10^7 cfu/ml
+
+Resistant regrowth in cultures 0,2 and 3, experiment stopeed, these cultures frozen at-80 in 15% glycerol, diluted 10^4 an plated onto LB agar (x4) and LB agar with cipro (x4) for each culture
+All cultures also left at 37 in static incubator.
+
+20230302
+
+still no growth in culture 1.
+
+cfu at end of experiment 
+
+culture 0:
+on LB: 47,34,52,67 ->5*10^6 cfu/ml (all EEL02)
+on cipro: 57,61,51,52 ->5.525*10^6 cfu/ml (all EEL02)
+
+culture 2:
+LB:30,35,45,38 ->3.7*10^6 cfu/ml (all EEL02)
+cipro:41,33,37,42 ->3.825*10^6 cfu/ml (all EEL02)
+
+culture 3: 
+LB: 33,56,36,31 (EEL02) 2,2,2,2(AD30)-> 4.1*10^6 cfu/ml
+cipro: 32,58,51,62 (EEL02) 1(AD30) -> 5.1*10^6 cfu/ml

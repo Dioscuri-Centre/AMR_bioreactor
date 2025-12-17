@@ -1,0 +1,22 @@
+20240918
+
+over night cultures of AD30 and EEL02_K43T (StrepR) diluted 50mikroL into 10 ml fresh lb and grown for 75 minutes before diluted to OD 0.1 and then grown for another 80 minutes before being mixed 1:1000 and inoculated 1ml into turbidostat.
+
+inoculum diluted 10^1 and plated 100mikrL on LB agar with 100mikrog/ml strep (x8),
+and diluted 10^4 and plated 100mikroL on LB agar (x8)
+
+turbidostat run with 100mikrog/ml strep added two hours after threshold OD reached.
+
+20240919
+
+inoculum on LB agar
+AD30: 156,157,161,149,161,194,158,195 
+
+
+on lb agar with cipro
+EEL02_K43T:95,111,111,107,79,93,99,107 
+
+incoculum about 1:1660
+
+
+ 
